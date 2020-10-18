@@ -1,0 +1,3 @@
+Number of arguments: 4 arguments.
+Argument List: ['qc.py', '-coarse', 'TRAIN.txt', 'DEV-questions.txt']
+[
