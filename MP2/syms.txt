@@ -1,0 +1,7 @@
+<epsilon> 0
+a 1
+b 2
+c 3
+A 4
+B 5
+C 6
